@@ -1,0 +1,5 @@
+# Ignore large data files like CSVs or datasets
+*.csv
+*.h5  # If you have trained models
+*.dat  # Example of large binary files
+*.ipynb_checkpoints  # Ignore Jupyter/Colab checkpoints
