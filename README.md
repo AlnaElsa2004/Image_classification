@@ -1,6 +1,6 @@
 # Image Classification Project
 
-This project explores three approaches to image classification using neural networks. Implemented in Google Colab, the methods include:
+This project focuses on exploring various image classification techniques using neural networks. The goal is to classify images into different categories using three different methods. By leveraging these techniques, the project compares the performance and accuracy of each approach, demonstrating how deep learning models can learn and categorize complex visual patterns. The implementation is done in Google Colab, making it accessible and easy to run for users with different datasets. The methods include:
 
 1. **Pixel-Based Classification**: A dense neural network processes raw pixel data to classify images.
 2. **Convolutional Neural Network (CNN)**: Convolutional layers extract spatial features to improve classification performance.
